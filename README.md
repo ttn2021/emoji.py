@@ -1,1 +1,1 @@
-这是一个娱乐鬼畜向的python程序，可以在ios的python集成开发环境中运行，难以脱离开发环境运行。
+这是一个娱乐鬼畜向的python程序，可以在ios的python集成开发环境pythonista中运行，难以脱离开发环境运行。
